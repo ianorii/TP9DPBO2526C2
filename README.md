@@ -109,4 +109,4 @@ Aplikasi ini memiliki fitur CRUD lengkap untuk dua entitas:
       * Delete: Tombol hapus lowongan dengan konfirmasi.
 
 ## Dokumentasi
-
+https://github.com/user-attachments/assets/7f5959b3-bc22-4f2b-9315-872297877720
